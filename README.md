@@ -55,7 +55,7 @@ I'm a passionate **Full-Stack Engineer** currently honing my skills through the 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -79,25 +79,25 @@ I'm a passionate **Full-Stack Engineer** currently honing my skills through the 
 
 <div align="center">
 
-### Total Contributions
-**362**  
-*May 5, 2022 - Present*
+### 📈 Activity Overview
 
-### Current Streak
-**1 day**  
-*Apr 10*
-
-### Longest Streak
-**7 days**  
-*Jul 16, 2025 - Jul 22, 2025*
+| Metric | Value |
+|--------|-------|
+| **Total Contributions** | 362 (May 5, 2022 - Present) |
+| **Current Streak** | 1 day (Apr 10) |
+| **Longest Streak** | 7 days (Jul 16, 2025 - Jul 22, 2025) |
 
 ---
+
+### 📊 Stats Cards
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Brianryanphiri&cc=0D1117&tc=58a6ff&ic=58a6ff)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brianryanphiri&theme=react-dark&hide_border=true&area=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianryanphiri&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)
+### 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianryanphiri&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=3600)
 
 </div>
 
