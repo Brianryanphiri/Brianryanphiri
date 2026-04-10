@@ -1,16 +1,94 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Brianryanphiri/Brianryanphiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Brian Ryan Phiri 👋
 
-Here are some ideas to get you started:
+### Full-Stack Engineer | ALX Graduate | Malawi 🇲🇼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub followers](https://img.shields.io/github/followers/Brianryanphiri?label=Follow&style=social)](https://github.com/Brianryanphiri)
+[![Profile Views](https://komarev.com/ghpvc/?username=Brianryanphiri&color=blueviolet&style=flat)](https://github.com/Brianryanphiri)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full-Stack Engineer** currently honing my skills through the **ALX Software Engineering Programme**. I love building things that live on the internet — from clean, responsive frontends to robust backend systems and databases.
+
+- 🔭 **Currently working on:** Airbnb Clone, ALX Intermediate Frontend projects
+- 🌱 **Currently learning:** Advanced backend development, database design & optimization
+- 🎯 **Goal:** Build impactful software solutions for Africa and beyond
+- 💡 **Passionate about:** Clean code, problem-solving, and open-source collaboration
+- 📍 **Based in:** Malawi 🇲🇼
+- 💬 **Ask me about:** HTML/CSS, JavaScript, Python, SQL, database architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend & Database
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 Featured Projects
+
+### 🏠 [Airbnb Clone Project](https://github.com/Brianryanphiri/airbnb-clone-project)
+> A full-stack recreation of Airbnb's core features — property listings, user auth, booking system, and more.
+
+### 🗄️ [ALX Airbnb Database](https://github.com/Brianryanphiri/alx-airbnb-database)
+> Relational database design and optimization for a large-scale accommodation platform.
+
+### 🎨 [ALX Intermediate Frontend](https://github.com/Brianryanphiri/alx-intermediate-frontend)
+> Advanced CSS and frontend techniques, responsive design, and modern UI patterns.
+
+### 📐 [Wireframing](https://github.com/Brianryanphiri/wireframing)
+> UI/UX wireframing concepts and design prototyping as part of the ALX curriculum.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brianryanphiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianryanphiri&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brianryanphiri&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brianryanphiri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+⭐ **If you like my work, give my repos a star!** ⭐
+
+</div>
