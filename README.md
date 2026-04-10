@@ -79,11 +79,25 @@ I'm a passionate **Full-Stack Engineer** currently honing my skills through the 
 
 <div align="center">
 
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brianryanphiri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### Total Contributions
+**362**  
+*May 5, 2022 - Present*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianryanphiri&layout=compact&theme=tokyonight&hide_border=true)
+### Current Streak
+**1 day**  
+*Apr 10*
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brianryanphiri&theme=tokyonight&hide_border=true)
+### Longest Streak
+**7 days**  
+*Jul 16, 2025 - Jul 22, 2025*
+
+---
+
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Brianryanphiri&cc=0D1117&tc=58a6ff&ic=58a6ff)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brianryanphiri&theme=react-dark&hide_border=true&area=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brianryanphiri&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
