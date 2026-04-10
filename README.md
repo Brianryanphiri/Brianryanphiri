@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Engineer** currently honing my skills through the **ALX Software Engineering Programme**. I love building things that live on the internet — from clean, responsive frontends to robust backend systems and databases.
+I'm a passionate **Full-Stack Engineer** currently honing my skills through the **ALX Software Engineering Programme**. I love building things that live on the internet, from clean, responsive frontends to robust backend systems and databases.
 
 - 🔭 **Currently working on:** Mwambo store ( an online store)
 - 🌱 **Currently learning:** Advanced backend development, database design & optimization
